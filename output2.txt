@@ -1,0 +1,78 @@
+Frase breve del bovary.txt : Since Bovary’s death three doctors have followed one another at Yonville without any success, so severely did Homais attack them. 
+
+Frase lunga del bovary.txt : And, as a
+matter of fact, we are sheltered from the north winds by the forest of
+Argueil on the one side, from the west winds by the St. Jean range on
+the other; and this heat, moreover, which, on account of the aqueous
+vapours given off by the river and the considerable number of cattle
+in the fields, which, as you know, exhale much ammonia, that is to say,
+nitrogen, hydrogen and oxygen (no, nitrogen and hydrogen alone), and
+which sucking up into itself the humus from the ground, mixing together
+all those different emanations, unites them into a stack, so to say,
+and combining with the electricity diffused through the atmosphere, when
+there is any, might in the long run, as in tropical countries, engender
+insalubrious miasmata--this heat, I say, finds itself perfectly tempered
+on the side whence it comes, or rather whence it should come--that is to
+say, the southern side--by the south-eastern winds, which, having cooled
+themselves passing over the Seine, reach us sometimes all at once like
+breezes from Russia, at any rate, you have some walks in the neighbourhood?” continued
+Madame Bovary, speaking to the young man.
+
+Frase breve del siddharta.txt : Deeply, Govinda bowed; tears he knew nothing of, ran down his old face; like a fire burnt the feeling of the most intimate love, the humblest
+veneration in his heart. 
+
+Frase lunga del siddharta.txt : He saw the
+face of a fish, a carp, with an infinitely painfully opened mouth, the
+face of a dying fish, with fading eyes--he saw the face of a new-born
+child, red and full of wrinkles, distorted from crying--he saw the face
+of a murderer, he saw him plunging a knife into the body of another
+person--he saw, in the same second, this criminal in bondage, kneeling
+and his head being chopped off by the executioner with one blow of his
+sword--he saw the bodies of men and women, naked in positions and cramps
+of frenzied love--he saw corpses stretched out, motionless, cold, void--
+he saw the heads of animals, of boars, of crocodiles, of elephants, of
+bulls, of birds--he saw gods, saw Krishna, saw Agni--he saw all of these
+figures and faces in a thousand relationships with one another, each one
+helping the other, loving it, hating it, destroying it, giving re-birth
+to it, each one was a will to die, a passionately painful confession of
+transitoriness, and yet none of them died, each one only transformed,
+was always re-born, received evermore a new face, without any time
+having passed between the one and the other face--and all of these
+figures and faces rested, flowed, generated themselves, floated along
+and merged with each other, and they were all constantly covered by
+something thin, without individuality of its own, but yet existing, like
+a thin glass or ice, like a transparent skin, a shell or mold or mask of
+water, and this mask was smiling, and this mask was Siddhartha's smiling
+face, which he, Govinda, in this very same moment touched with his lips.
+
+I 10 luoghi che compaiono nelle frasi in cui sono contenuti i nomi propri del bovary.txt sono: [(' Emma', 87), (' Rodolphe', 42), (' Homais', 34), (' Yonville', 20), (' Bovary', 19), (' Rouen', 19), (' Madame', 15), (' Paris', 11), (' Leon', 8), (' Felicite', 7)]
+
+I 10 luoghi che compaiono nelle frasi in cui sono contenuti i nomi propri del siddharta.txt sono: [(' Gotama', 50), (' Samana', 49), (' Buddha', 32), (' Kamala', 28), (' Siddhartha', 26), (' Vasudeva', 20), (' Govinda', 13), (' Brahmans', 10), (' Samanas', 7), (' Kamaswami', 6)]
+
+I 10 nomi di persona che compaiono nelle frasi in cui sono contenuti i nomi propri del bovary.txt sono: [('Charles', 413), ('Emma', 379), ('MadameBovary', 195), ('Leon', 143), ('Homais', 120), ('Rodolphe', 110), ('Bovary', 94), ('Madame', 82), ('Monsieur', 73), ('MonsieurHomais', 66)]
+
+I 10 nomi di persona che compaiono nelle frasi in cui sono contenuti i nomi propri del siddharta.txt sono: [('Siddhartha', 455), ('Govinda', 101), ('Vasudeva', 69), ('Kamala', 67), ('Kamaswami', 27), ('Samana', 26), ('Brahman', 23), ('Gotama', 21), ('Samanas', 20), ('Buddha', 20)]
+
+I 10 sostantivi che compaiono nelle frasi in cui sono contenuti i nomi propri del bovary.txt sono: [('”', 1141), ('“', 1004), ('’', 600), ('Emma', 492), ('Madame', 435), ('Monsieur', 429), ('Charles', 426), ('s', 346), ('Homais', 319), ('Leon', 204)]
+
+I 10 sostantivi che compaiono nelle frasi in cui sono contenuti i nomi propri del siddharta.txt sono: [('Siddhartha', 555), ('Govinda', 242), ('Samanas', 121), ('time', 105), ('Kamala', 104), ('Buddha', 96), ('Samana', 93), ('Vasudeva', 92), ('saw', 89), ('Gotama', 81)]
+
+I 10 verbi che compaiono nelle frasi in cui sono contenuti i nomi propri del bovary.txt sono: [('was', 740), ('had', 505), ('said', 244), ('is', 210), ('were', 147), ('have', 136), ('be', 134), ('went', 112), ('did', 111), ('came', 85)]
+
+I 10 verbi che compaiono nelle frasi in cui sono contenuti i nomi propri del siddharta.txt sono: [('had', 403), ('was', 342), ('is', 182), ('have', 117), ('be', 86), ('been', 85), ('said', 80), ('learned', 78), ('has', 72), ('are', 67)]
+
+Le date del bovary.txt sono: Il libro non contiene nessuna data
+
+Le date del siddharta.txt sono: Il libro non contiene nessuna data
+
+I giorni del bovary.txt sono: ({'Friday', 'Thursday', 'Sunday', 'Saturday', 'Wednesday'}, FreqDist({'Thursday': 8, 'Sunday': 6, 'Wednesday': 5, 'Friday': 3, 'Saturday': 2}))
+
+I giorni del siddharta.txt sono: Il libro non contiene nessun giorno
+
+I mesi del bovary.txt sono: ({'October', 'September', 'July', 'May', 'August', 'March'}, FreqDist({'March': 7, 'May': 2, 'October': 1, 'September': 1, 'July': 1, 'August': 1}))
+
+I mesi del siddharta.txt sono: ({'May'}, FreqDist({'May': 2}))
+
+La frase con probabilità più alta, calcolata con un modello di Markov di ordine 0 del bovary.txt è: ('Charles could not go on like this.', 1.9058773392809728e-20)
+
+La frase con probabilità più alta, calcolata con un modello di Markov di ordine 0 del siddharta.txt è: ('He wanted to follow Siddhartha, the beloved,\nthe splendid.', 2.0915932958206096e-29)

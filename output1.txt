@@ -1,0 +1,57 @@
+Il file bovary.txt contiene 5692 frasi
+Il file siddharta.txt contiene 1853 frasi
+bovary.txt contiene più frasi di siddharta.txt
+
+Il file bovary.txt è lungo 139775 token
+Il file siddharta.txt è lungo 47241 token
+bovary.txt è più lungo di siddharta.txt
+
+La lunghezza media delle frasi del bovary.txt è 24.55639494026704
+La lunghezza media delle frasi del siddharta.txt è 25.494333513221804
+La lunghezza media delle frasi del bovary.txt è minore di quelle del siddharta.txt
+
+La lunghezza media dei token del bovary.txt è 3.8083205151135755
+La lunghezza media dei token del siddharta.txt è 3.7433585233166107
+La lunghezza media dei token del bovary.txt è maggiore di quella del siddharta.txt
+
+La grandezza del vocabolario del bovary.txt è 11652
+La grandezza del vocabolario del siddharta.txt è 3852
+La grandezza del vocabolario del bovary.txt è maggiore di quella del siddharta.txt
+
+Il rapporto tra Sostantivi e verbi del bovary.txt è 1.5033431661750245
+Il rapporto tra sostantivi e verbi del siddharta.txt è 1.1390153082333472
+Il rapporto tra sostantivi e verbi nel bovary.txt è maggiore rispetto a quello del siddharta.txt
+
+Hapax 1000: 316 del bovary.txt
+Hapax 1000: 225 del siddharta.txt
+Hapax 2000: 568 del bovary.txt
+Hapax 2000: 336 del siddharta.txt
+Hapax 3000: 747 del bovary.txt
+Hapax 3000: 421 del siddharta.txt
+Hapax 4000: 897 del bovary.txt
+Hapax 4000: 551 del siddharta.txt
+Hapax 5000: 1050 del bovary.txt
+Hapax 5000: 608 del siddharta.txt
+Hapax 6000: 1169 del bovary.txt
+Hapax 6000: 669 del siddharta.txt
+Hapax 7000: 1270 del bovary.txt
+Hapax 7000: 709 del siddharta.txt
+Hapax 8000: 897 del bovary.txt
+Hapax 8000: 551 del siddharta.txt
+Hapax 9000: 1384 del bovary.txt
+Hapax 9000: 806 del siddharta.txt
+Hapax 10000: 1462 del bovary.txt
+Hapax 10000: 870 del siddharta.txt
+
+
+I dieci POS più frequenti del bovary.txt sono [('NN', 18826), ('IN', 15759), ('DT', 12935), (',', 10207), ('VBD', 9918), ('PRP', 9477), ('JJ', 7728), ('.', 6424), ('NNS', 6088), ('RB', 6031)]
+
+I dieci POS più frequenti del siddharta.txt sono [('NN', 5566), (',', 4735), ('IN', 4586), ('DT', 4162), ('PRP', 3527), ('VBD', 2986), ('RB', 2671), ('JJ', 2240), ('.', 1855), ('CC', 1736)]
+
+Probabilità condizionata dei bigrammi di POS del bovary.txt : [(('SYM', 'RB'), 1.0), (('PDT', 'DT'), 0.974025974025974), (('RBS', 'JJ'), 0.8285714285714286), (('MD', 'VB'), 0.6778846153846154), (('UH', ','), 0.5595238095238095), (('DT', 'NN'), 0.5559335137224585), (('PRP$', 'NN'), 0.5535851966075559), (('TO', 'VB'), 0.5527950310559007), (('EX', 'VBD'), 0.5205479452054794), ((')', ','), 0.4791666666666667)]
+
+Probabilità condizionata dei bigrammi di POS del siddharta.txt : [(('PDT', 'DT'), 1.0), (('RBS', 'JJ'), 0.7391304347826086), (('PRP$', 'NN'), 0.663575042158516), (('POS', 'NN'), 0.64375), (('TO', 'VB'), 0.6215034965034965), (('MD', 'VB'), 0.5982905982905983), (('DT', 'NN'), 0.5216242191254205), (('WP$', 'NN'), 0.5), ((')', ':'), 0.5), (('(', 'CC'), 0.5)]
+
+LMI dei bigrammi di POS del bovary.txt : [(('DT', 'NN'), 14707.696214544778), (('IN', 'DT'), 12793.494040486468), (('PRP', 'VBD'), 11230.976815922524), (('TO', 'VB'), 7341.6616297391265), (('NN', ','), 5620.518165390244), (('DT', 'JJ'), 5094.4013028381405), (('NN', 'IN'), 5051.141396178349), ((',', 'CC'), 4667.459832445485), (('JJ', 'NN'), 4596.381398889202), (('PRP$', 'NN'), 4392.404940998839)]
+
+LMI dei bigrammi di POS del siddharta.txt : [(('DT', 'NN'), 4659.854918558006), (('IN', 'DT'), 3640.558042750529), (('TO', 'VB'), 3018.476940188641), (('NN', ','), 3016.8909604258247), (('PRP', 'VBD'), 2373.2686068400535), (('PRP$', 'NN'), 1962.5090201496932), (('DT', 'JJ'), 1615.4110453980106), (('PRP', 'VBP'), 1477.25391164066), (('JJ', 'NN'), 1319.625190162105), (('NN', '.'), 1260.5705797768264)]
